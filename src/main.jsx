@@ -5,6 +5,8 @@ import './index.css'
 // main.js or main.ts
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import ErrorBoundary from './component/ErrorBoundary.jsx';
 
 
